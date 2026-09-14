@@ -4,10 +4,17 @@
     <title>Minecraft SMP &amp; Redstone Builders Hub</title>
     <link>https://minecraft-smp-builders-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 14:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:07:29 GMT</lastBuildDate>
     <atom:link href="https://minecraft-smp-builders-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-            <item>
+                <item>
+      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/</link>
+      <guid isPermaLink="false">https://minecraft-smp-builders-hub.netlify.app/#minecraft-smp-builders-hub-reddit-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 06:07:29 GMT</pubDate>
+      <description>Newly verified community added to Minecraft SMP &amp; Redstone Builders Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
       <link>https://www.reddit.com/r/MachineLearning/</link>
       <guid isPermaLink="false">https://minecraft-smp-builders-hub.netlify.app/#minecraft-smp-builders-hub-reddit-20260913-1-2026-09-13</guid>
